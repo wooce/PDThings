@@ -1,0 +1,7 @@
+SQLite3.xdb
+	A DBMS definition for SQLite 3.
+	It was created as a new DBMS, from the default PowerDesigner template; then cleaned up to include only the necessary items.
+
+	The objects currently supported:
+	* table
+	* column
